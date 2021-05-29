@@ -92,7 +92,7 @@
                         <type>runtime</type>
                         <properties>
                             <cargo.hostname>localhost</cargo.hostname>
-                            <cargo.jboss.management.port>19999</cargo.jboss.management.port>
+                            <cargo.jboss.management.port>8089</cargo.jboss.management.port>
                         </properties>
                     </configuration>
                 </execution>
