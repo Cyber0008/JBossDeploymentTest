@@ -39,15 +39,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/org.jboss.as/jboss-as-controller-client -->
-<dependency>
-    <groupId>org.jboss.as</groupId>
-    <artifactId>jboss-as-controller-client</artifactId>
-    <version>7.2.0.Final</version>
-    <scope>provided</scope>
-</dependency>
-		
+		<dependency>
+			<groupId>org.jboss.as</groupId>
+			<artifactId>jboss-as-controller-client</artifactId>
+			<version>7.2.0.Final</version>
+		</dependency>
+
 
 
 
